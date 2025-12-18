@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MobileProject3TestGit</string>
+    <string name="yasin1">yasin1</string>
+    <string name="yasin2">yasin2</string>
+    <string name="yasin3">yasin3</string>
+    <string name="yasin4">yasin4</string>
+    <string name="yasin5">yasin5</string>
 </resources>
