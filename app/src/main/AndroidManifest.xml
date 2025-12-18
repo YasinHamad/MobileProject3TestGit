@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MobileProject3TestGit">
         <activity
+            android:name=".Yasin.MainActivityYasin1"
+            android:exported="false" />
+        <activity
             android:name=".Zainab.MainActivityZainab"
             android:exported="false" />
         <activity
